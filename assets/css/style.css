@@ -384,7 +384,7 @@ ul {
   margin-bottom: 30px;
   padding-left: 20px; }
   ul.liststyle.bullet li {
-    font-size: 18px;
+    font-size: 30px;
     line-height: 30px;
     color: var(--color-body);
     position: relative;
@@ -9073,7 +9073,7 @@ figcaption {
       background: var(--background-color-1);
       box-shadow: var(--shadow-1); }
       .slide .skill-share-inner .skill-share li img {
-        max-height: 23px;
+        max-height: 33px;
         width: auto; }
   .slide .thumbnail {
     position: relative;
